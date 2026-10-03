@@ -2,7 +2,7 @@
 A website that shares games, mostly Flash games, but it does host a large amount of games, even including ported games!
 
 ## Image reference
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fe6756cc-c25c-49d5-8e1b-8bbde6ca6d33" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/eb90174a-eb5a-4994-85f1-d10e742f852b" />
 
 # How to use:
 1. Open the index.html file and copy the code, or download the file. (You can also fork this repo and use it from there)                      
